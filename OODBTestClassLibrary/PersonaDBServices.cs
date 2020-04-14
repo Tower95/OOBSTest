@@ -1,4 +1,6 @@
 ﻿using System;
+using Raven.Client.Documents;
+using Raven.Client.Documents.Session;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
