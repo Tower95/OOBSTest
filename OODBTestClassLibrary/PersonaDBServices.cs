@@ -12,6 +12,8 @@ namespace OODBTestClassLibrary
     {
         public void GuardarPersona(Persona persona)
         {
+            Persona Persona = new Persona();
+            Persona.Nombre = "Ismael";
         }
 
         public void GuardarListaPersonas(List<Persona> lista_personas)
