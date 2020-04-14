@@ -10,7 +10,7 @@ namespace OODBTestClassLibrary
     {
         public void AbrirDB()
         {
-
+                
         }
 
         public void CerrarDB()
@@ -23,5 +23,10 @@ namespace OODBTestClassLibrary
             
         }
 
+        //prueba
+        public void ver()
+        {
+              
+		}
     }
 }
