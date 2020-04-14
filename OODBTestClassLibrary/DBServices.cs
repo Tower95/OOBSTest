@@ -26,7 +26,7 @@ namespace OODBTestClassLibrary
         //prueba
         public void ver()
         {
-              
+              //hola manuel
 		}
     }
 }
